@@ -1,1 +1,4 @@
-o # PHP-image_text
+o #PHP-image_text
+PHP原生代码的网站 - 配图短文
+
+功能实现：登录，发布，注册，编辑，图片上传等
